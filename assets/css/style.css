@@ -92,6 +92,12 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 6px;
 }
 
+#important-underline{
+  color: #fff;
+  border-bottom: 2px solid red!important;
+  padding-bottom: 6px;
+}
+
 #header img {
   padding: 0;
   margin: 0;
